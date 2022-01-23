@@ -1,0 +1,16 @@
+View.WareHouse.pnlKhoHang$1
+View.WareHouse.pnlKhoHang$3
+View.WareHouse.pnlKhoHang$2
+View.WareHouse.pnlKhoHang$5
+View.WareHouse.pnlKhoHang$4
+View.WareHouse.pnlKhoHang
+View.WareHouse.pnlKhoHang$7
+View.WareHouse.pnlKhoHang$6
+View.WareHouse.pnlKhoHang$9
+View.WareHouse.pnlKhoHang$8
+View.WareHouse.pnlKhoHang$12
+View.WareHouse.pnlKhoHang$11
+View.WareHouse.pnlKhoHang$10
+View.WareHouse.pnlKhoHang$15
+View.WareHouse.pnlKhoHang$14
+View.WareHouse.pnlKhoHang$13
